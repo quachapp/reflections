@@ -23,3 +23,11 @@ Now that you've seen how to update your local copy of remote branches, and how t
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You may also want to commit and push your changes. When you're finished, click "Next" and Caroline will introduce a GitHub feature called a Pull Request that makes collaboration easier.
+
+Reflect: Collaboration using Git and GitHub
+
+Now that you've seen how multiple people can share changes to a project using GitHub, and review proposed changes using pull requests, go add the following question and your thoughts on it to your reflections file:
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You may also want to commit and push your changes. When you're finished, click "Next".
